@@ -1,6 +1,11 @@
 SonarQube Lua Plugin
 ====================
 
+## Build
+
+
+mvn clean install
+
 ## Description
 This plugin enables analysis of Lua project within SonarQube:
 
