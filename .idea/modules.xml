@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lua.iml" filepath="$PROJECT_DIR$/lua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lua-checks/lua-checks.iml" filepath="$PROJECT_DIR$/lua-checks/lua-checks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lua-squid/lua-squid.iml" filepath="$PROJECT_DIR$/lua-squid/lua-squid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sonar-lua-plugin/sonar-lua-plugin.iml" filepath="$PROJECT_DIR$/sonar-lua-plugin/sonar-lua-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sslr-lua-toolkit/sslr-lua-toolkit.iml" filepath="$PROJECT_DIR$/sslr-lua-toolkit/sslr-lua-toolkit.iml" />
+    </modules>
+  </component>
+</project>

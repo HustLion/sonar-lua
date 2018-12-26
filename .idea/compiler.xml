@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lua-checks" />
+        <module name="lua-squid" />
+        <module name="sonar-lua-plugin" />
+        <module name="sslr-lua-toolkit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lua" target="1.8" />
+      <module name="lua-checks" target="1.8" />
+      <module name="lua-squid" target="1.8" />
+      <module name="sonar-lua-plugin" target="1.8" />
+      <module name="sslr-lua-toolkit" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
